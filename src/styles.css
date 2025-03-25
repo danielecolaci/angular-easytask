@@ -1,1 +1,13 @@
-/* You can add global styles to this file, and also import other style files */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+}
+
+body {
+    color: #c3b3d8;
+    height: 100%;
+    background: radial-gradient(circle at top left, #181023, #0b0519);
+    color: #c3b3d8;
+}
